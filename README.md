@@ -35,7 +35,7 @@ Mobile view
 
 ### Links
 
--   Live Site URL:
+-   Live Site URL: [Live Site](https://ddm-projects.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 

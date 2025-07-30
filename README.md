@@ -1,4 +1,5 @@
 # Frontend Mentor - Intro section with dropdown navigation solution
+Live Site URL: [Intro section with dropdown navigation](https://ddm-projects.github.io/intro-section-with-dropdown-navigation/)
 
 This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -7,7 +8,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
-    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
@@ -32,10 +32,6 @@ Mobile view
 
 ![Project-mobile view](images/project-mobile.png)
 ![Project-mobile view active](images/project-mobile-active.png)
-
-### Links
-
--   Live Site URL: [Live Site](https://ddm-projects.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
